@@ -1,6 +1,6 @@
 # Numbers
 
-**TODO: Add description**
+Fun with numbers in elixir
 
 ## Installation
 
